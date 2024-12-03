@@ -1,1 +1,1 @@
-# Agglomerative Clustering na MwDM
+# Projekty na zajęcia Modelowanie w data mining
