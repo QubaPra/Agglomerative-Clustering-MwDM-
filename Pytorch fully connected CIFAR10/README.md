@@ -1,0 +1,1 @@
+Zestawić sieć neuronową opartą tylko na warstwach fully connected w Pytorch i przeprowadzić trening oraz test na zbiorze CIFAR10
